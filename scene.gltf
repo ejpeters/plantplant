@@ -3855,22 +3855,22 @@
   ],
   "images": [
     {
-      "uri": "textures/material_metallicRoughness.png"
+      "uri": "material_metallicRoughness.png"
     },
     {
-      "uri": "textures/material_normal.png"
+      "uri": "material_normal.png"
     },
     {
-      "uri": "textures/material_baseColor.jpeg"
+      "uri": "material_baseColor.jpeg"
     },
     {
-      "uri": "textures/material_1_baseColor.png"
+      "uri": "material_1_baseColor.png"
     },
     {
-      "uri": "textures/material_1_metallicRoughness.png"
+      "uri": "material_1_metallicRoughness.png"
     },
     {
-      "uri": "textures/material_1_normal.png"
+      "uri": "material_1_normal.png"
     }
   ],
   "materials": [
